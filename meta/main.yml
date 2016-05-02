@@ -1,4 +1,3 @@
----
 galaxy_info:
   author: Red Hat Consulting
   description: Role to install JBoss Application Platform
@@ -9,8 +8,9 @@ galaxy_info:
    - name: EL
      versions:
      - 7
-  categories:
-   - java
-   - jboss
-   - eap
+  galaxy_tags:
+    - java
+    - jboss
+    - eap
 
+dependencies: []

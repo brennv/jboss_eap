@@ -1,3 +1,5 @@
+---
+# handlers file for jboss_eap
 - name: Reload systemd
   sudo: yes
   command: systemctl daemon-reload
