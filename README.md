@@ -6,8 +6,8 @@ A role to install JBoss Enterprise Application Platform on RHEL7. Intended to be
 Requirements
 ------------
 
-Ansible 1.8+
-Access to JBOSS EAP downloads on [access.redhat.com](https://access.redhat.com)
+- Ansible 1.8+
+- Access to JBOSS EAP downloads on [access.redhat.com](https://access.redhat.com)
 
 Role Variables
 --------------
